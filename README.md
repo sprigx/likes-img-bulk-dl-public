@@ -12,6 +12,7 @@
 $ pyenv install 3.10.5
 $ git clone git@github.com:sprigx/likes-img-bulk-dl-public.git
 $ cd likes-img-bulk-dl-public
+$ echo "3.10.5" > .python-version
 $ pip install poetry
 $ poetry install
 ```
